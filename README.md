@@ -6,6 +6,7 @@
 
 # What Is This App?
 This app is cheat, that was made for web application that is called 'Zav' (https://student.zav.cz/), where you are supposed to learn to write to all ten.
+![Writing all ten with Zav](https://prnt.sc/wkgjux.png)
 
 # Installation
 Installing this application is very simple, just download my 'HZAV Auto-Updater' (https://github.com/bezakrobin/hzav-updater/), install it, and every time you run the app you will get the newest version.

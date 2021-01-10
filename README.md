@@ -13,7 +13,7 @@ This app is cheat, that was made for web application that is called 'Zav' (https
 Installing this application is very simple, just download my 'HZAV Auto-Updater' (https://github.com/bezakrobin/hzav-updater/), install it, and every time you run the app you will get the newest version.
 
 # How to use it?
-It is very simple, after succesfull signing into 'Zav Portal', press F1 to show the menu and press F2 to hide.
+It is so easy and friendly, after succesfull signing into 'Zav Portal', press F1 to show the menu and press F2 to hide.
 
 # Menu
 Menu contains many functions:
